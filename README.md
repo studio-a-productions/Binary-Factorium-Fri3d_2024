@@ -21,6 +21,11 @@ When I find solutions myself or they were suggested and will be used in the game
 ### Outpost Shield Capacitator (GPU planet deload)
 The Outpost Shield Capacitator (or OSC) is a building/facility that shares your storage and productions with planets (when any input or output conveyors are connected). Or in simple terms: it stores the production rate of your outpost and stops simulating the planet when you are not on it. Which means all grids not connected will not produce anything when you are on another planet.
 
+## Creating your own project?
+
+Want to add a feature or completely change the source of the game?
+
+Create your own fork or follow the [CLONEGUIDE.md](clone guide)
 
 ---
 
