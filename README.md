@@ -25,7 +25,7 @@ The Outpost Shield Capacitator (or OSC) is a building/facility that shares your 
 
 Want to add a feature or completely change the source of the game?
 
-Create your own fork or follow the [CLONEGUIDE.md](clone guide)
+Create your own fork or follow the [clone guide](CLONEGUIDE.md)
 
 ---
 
