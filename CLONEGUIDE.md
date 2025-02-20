@@ -1,8 +1,8 @@
-# Contributing to Binary Factorium
+# Creating your own version of Binary Factorium
 
-Thank you for your interest in contributing to Binary Factorium! We welcome your help to improve and expand the project.
+Thank you for your interest in Binary Factorium! We welcome your help to improve and expand the project.
 
-## How to Contribute
+## How to Clone
 
 1. **Fork the Repository:**  
    Start by forking the repository to your own GitHub account.
@@ -26,11 +26,5 @@ Thank you for your interest in contributing to Binary Factorium! We welcome your
    ```bash
    git push origin feature/my-feature
    ```
-   For those who wanted to create their own version or maybe support for other platforms, they can stop here, but you should stte changes.
-
-6. **Pull request:**
-   Make a pull request to the original/main project, please include:
-   - A detailed description of your changes.
-   - Any relevant issue numbers (e.g., "Fixes #42").
-   - Screenshots or test cases if applicable.
-   
+   For those who wanted to create their own version or support for other platforms, they can stop here, but you should still state changes.
+  
